@@ -1,6 +1,6 @@
 # R10K-Style Out-of-Order Superscalar Processor
 
-A SystemVerilog implementation of an out-of-order superscalar processor
+A Verilog implementation of an out-of-order superscalar processor
 inspired by the MIPS R10000 architecture.
 
 ## 🚀 Features
